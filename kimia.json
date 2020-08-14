@@ -1,0 +1,107 @@
+[
+  {
+    "nomer atom": "1",
+    "nama ": "Hidrogen",
+    "nama latin": "",
+    "lambang": "H",
+    "periode": "1",
+    "grup": "I A",
+    "sifat": {
+      "massa": "1.00784",
+      "satuan massa": "g/mol",
+      "titik didih": "20.28",
+      "titik leleh": "14.01",
+      "satuan suhu": "°K",
+      "fase": "gas"
+    },
+    "atom": {
+      "proton": "1",
+      "elektron": "1",
+      "neutron": "0"
+    }
+  },
+  {
+    "nomer atom": "2",
+    "nama ": "Helium",
+    "nama latin": "Helium",
+    "lambang": "He",
+    "periode": "1",
+    "grup": "VIII A",
+    "sifat": {
+      "massa": "4.0026",
+      "satuan massa": "g/mol",
+      "titik didih": "4.25",
+      "titik leleh": "0.95",
+      "satuan suhu": "°K",
+      "fase": "gas"
+    },
+    "atom": {
+      "proton": "2",
+      "elektron": "2",
+      "neutron": "2"
+    }
+  },
+  {
+    "nomer atom": "3",
+    "nama ": "Litium",
+    "nama latin": "Lithium",
+    "lambang": "Li",
+    "periode": "2",
+    "grup": "I A",
+    "sifat": {
+      "massa": "6.941",
+      "satuan massa": "g/mol",
+      "titik didih": "1615.15",
+      "titik leleh": "453.65",
+      "satuan suhu": "°K",
+      "fase": "padat"
+    },
+    "atom": {
+      "proton": "3",
+      "elektron": "3",
+      "neutron": "4"
+    }
+  },
+  {
+    "nomer atom": "4",
+    "nama ": "Berilium",
+    "nama latin": "Beryllium",
+    "lambang": "Be",
+    "periode": "2",
+    "grup": "II A",
+    "sifat": {
+      "massa": "9.0121",
+      "satuan massa": "g/mol",
+      "titik didih": "3243.15",
+      "titik leleh": "1551.15",
+      "satuan suhu": "°K",
+      "fase": "padat"
+    },
+    "atom": {
+      "proton": "4",
+      "elektron": "4",
+      "neutron": "5"
+    }
+  },
+  {
+    "nomer atom": "5",
+    "nama ": "Boron",
+    "nama latin": "Borum",
+    "lambang": "B",
+    "periode": "2",
+    "grup": "III A",
+    "sifat": {
+      "massa": "10.811",
+      "satuan massa": "g/mol",
+      "titik didih": "4199.95",
+      "titik leleh": "2348.95",
+      "satuan suhu": "°K",
+      "fase": "padat"
+    },
+    "atom": {
+      "proton": "5",
+      "elektron": "5",
+      "neutron": "6"
+    }
+  }
+]
